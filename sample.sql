@@ -41,6 +41,7 @@ CREATE CERTIFICATE TDE_Certificate
        WITH SUBJECT='Certificate for TDE';
 GO
 
+-- add some changegit
 USE master;
 GO 
 CREATE CERTIFICATE TDE_Certificate2
